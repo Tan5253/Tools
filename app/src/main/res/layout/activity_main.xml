@@ -6,7 +6,7 @@
     android:layout_height="match_parent"
     tools:context=".MainActivity">
 
-    <com.tan.toollibrary.widget.SwipeMenuLayout
+    <com.tan.core.widget.SwipeMenuLayout
         android:id="@+id/swipe_menu_layout"
         android:layout_width="match_parent"
         android:layout_height="100dp"
@@ -46,6 +46,6 @@
             android:background="@android:color/holo_red_dark"
             android:text="删除"
             android:textColor="@android:color/white"/>
-    </com.tan.toollibrary.widget.SwipeMenuLayout>
+    </com.tan.core.widget.SwipeMenuLayout>
 
 </LinearLayout>
